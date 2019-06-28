@@ -1,4 +1,4 @@
-
+[![Build Status](https://basjanssens.visualstudio.com/ContosoAir/_apis/build/status/BasJanssens.ContosoAir?branchName=master)](https://basjanssens.visualstudio.com/ContosoAir/_build/latest?definitionId=4&branchName=master)
 
 
 # Microsoft.Github CI Demo
